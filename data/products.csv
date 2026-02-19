@@ -1,0 +1,6 @@
+sku,name,description,price,currency,category,stock,imageUrl
+PROD001,Wireless Headphones,Premium noise-cancelling headphones,149.99,USD,Electronics,25,https://example.com/headphones.jpg
+PROD002,Smart Watch,Fitness tracking smartwatch,199.99,USD,Electronics,15,https://example.com/watch.jpg
+PROD003,Leather Wallet,Genuine leather bifold wallet,49.99,USD,Accessories,50,https://example.com/wallet.jpg
+PROD004,Running Shoes,Professional athletic footwear,89.99,USD,Footwear,30,https://example.com/shoes.jpg
+PROD005,Backpack,Water-resistant laptop backpack,79.99,USD,Bags,20,https://example.com/backpack.jpg
